@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Samaira",
+    "course": "BTech"
+  },
+  {
+    "id": 2,
+    "name": "Manshi",
+    "course": "BTech"
+  },
+  {
+    "id": 3,
+    "name": "Aashi",
+    "course": "BCA"
+  }
+]
